@@ -17,6 +17,10 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
 .table {
   height: 130px;
   width: 130px;
