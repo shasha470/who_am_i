@@ -1,0 +1,39 @@
+*{
+  box-sizing: border-box;
+}
+div{ 
+ background: purple; 
+} 
+p { 
+ color: yellow; 
+}
+p {text-align: right;}
+body {
+  background-color: lightblue;
+}
+#profile
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.table {
+  height: 130px;
+  width: 130px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container {
+  display: table;
+  width: 100%;
+}
+h1 {
+  color: black;
+  text-align: center;
+  background-color: #c216e4;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
